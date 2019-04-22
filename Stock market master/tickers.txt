@@ -1,0 +1,30 @@
+GOOG:Alphabet Inc.
+GOOGL:Alphabet Inc.
+GILD:Gilead Sciences, Inc.
+ROKU:Roku, Inc.
+STX:Seagate Technology plc
+CRON:Cronos Group Inc.
+AAPL:Apple Inc.
+MXWL:Maxwell Technologies, Inc.
+NFLX:Netflix, Inc.
+BA:The Boeing Company
+P:Pandora Media, Inc.
+APHA:Aphria Inc.
+FB:Facebook, Inc.
+MLNT:Melinta Therapeutics, Inc.
+GLUU:Glu Mobile Inc.
+MSFT:Microsoft Corporation
+TLRY:Tilray, Inc.
+ACB:Aurora Cannabis Inc.
+ULTI:The Ultimate Software Group, Inc.
+ABMD:ABIOMED, Inc.
+SONO:Sonos, Inc.
+ALGN:Align Technology, Inc.
+ZUO:Zuora, Inc.
+QUIK:QuickLogic Corporation
+NVDA:NVIDIA Corporation
+N.V:Namaste Technologies Inc.
+SNAP:Snap Inc.
+T:AT&T Inc.
+LMNX:Luminex Corporation
+CRON.TO:Cronos Group Inc.
